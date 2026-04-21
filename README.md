@@ -144,6 +144,6 @@ The test suite checks:
 
 ## Author
 
-**A. S. Amari Rabah**
+**A. S. Amari Rabah** and **B. Gómez Peinado**
 
 Developed as part of the coursework for *Computational Methods in Non-Linear Physics* — Master's Degree in Physics: Radiation, Nanotechnology, Particles and Astrophysics, University of Granada, Spain.
